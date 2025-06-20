@@ -51,7 +51,7 @@ To keep a record of our results, we create a Pandas DataFrame with the predicted
 
 This code represents a complete sentiment analysis pipeline using deep learning. From data preprocessing to model building, training, visualization, prediction, and exporting results, every step is handled efficiently. The use of an LSTM network makes it powerful in capturing the meaning and structure of sentences, especially in tasks where word order matters.
 
-output:
+
 ![Image](https://github.com/user-attachments/assets/565162a2-921d-413b-bf36-e94e5404934b)
 
 
